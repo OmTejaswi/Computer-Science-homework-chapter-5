@@ -1,0 +1,9 @@
+<style type = text/css">
+ul { list-style-type: circle }
+</style>
+
+(a). What type of list is being created in the above code?
+ans: Unordered list
+
+(b). What change will you mke in the above code to get square bullet?
+ans: We will set list-style-type to square.

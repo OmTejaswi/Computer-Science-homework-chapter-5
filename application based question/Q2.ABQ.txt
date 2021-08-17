@@ -1,0 +1,3 @@
+Poorvi shoukd use <img> tag to insert image in HTML document.
+
+GIF and JPEG are the two widely used graphic format.

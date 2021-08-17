@@ -1,0 +1,1 @@
+This type of list are called ordered list. And she should use <ol> </ol> tag to create this list
